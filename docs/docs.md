@@ -1,4 +1,4 @@
-# Farcaster Contracts
+йфффяяяіф    '# Farcaster Contracts
 
 Users create accounts by registering with onchain contracts. Farcaster contracts help set up identity key pairs, signing key pairs, usernames and with acquiring storage on offchain systems. Contracts are deployed across multiple chains and offchain services track the state of these contracts by watching for events.
 
@@ -347,7 +347,7 @@ The [Fname registry](https://github.com/farcasterxyz/fname-registry) is an offch
 
 # 3.2. Hubs
 
-[Hubs](https://docs.farcaster.xyz/protocol/hubs.html) are offchain servers that store data on behalf of addresses that have registered an fid. They track the IdRegistry to know the addresses that have an fid, the StorageRegistry to find out how many messages they are allowed to store and the KeyRegistry to find out which key pairs can sign messages on behalf of the user.
+[Hubs](https://docs.farcaster.xyz/learn/architecture/hubs) are offchain servers that store data on behalf of addresses that have registered an fid. They track the IdRegistry to know the addresses that have an fid, the StorageRegistry to find out how many messages they are allowed to store and the KeyRegistry to find out which key pairs can sign messages on behalf of the user.
 
 ### Assumptions
 
